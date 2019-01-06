@@ -1,0 +1,7 @@
+C:\Users\Vinay Dubey\Desktop\Hugechs\HugeChsApp\BAL\bin\Debug\BAL.dll
+C:\Users\Vinay Dubey\Desktop\Hugechs\HugeChsApp\BAL\bin\Debug\BAL.pdb
+C:\Users\Vinay Dubey\Desktop\Hugechs\HugeChsApp\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\Vinay Dubey\Desktop\Hugechs\HugeChsApp\BAL\obj\Debug\BAL.dll
+C:\Users\Vinay Dubey\Desktop\Hugechs\HugeChsApp\BAL\obj\Debug\BAL.pdb
+C:\Users\Vinay Dubey\Desktop\Hugechs\HugeChsApp\BAL\bin\Debug\DAL.dll
+C:\Users\Vinay Dubey\Desktop\Hugechs\HugeChsApp\BAL\bin\Debug\DAL.pdb

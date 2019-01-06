@@ -1,0 +1,5 @@
+C:\Users\Vinay Dubey\Desktop\Hugechs\HugeChsApp\DAL\bin\Debug\DAL.dll
+C:\Users\Vinay Dubey\Desktop\Hugechs\HugeChsApp\DAL\bin\Debug\DAL.pdb
+C:\Users\Vinay Dubey\Desktop\Hugechs\HugeChsApp\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Vinay Dubey\Desktop\Hugechs\HugeChsApp\DAL\obj\Debug\DAL.dll
+C:\Users\Vinay Dubey\Desktop\Hugechs\HugeChsApp\DAL\obj\Debug\DAL.pdb
